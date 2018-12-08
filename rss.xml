@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="UTF-8"?><rss xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:atom="http://www.w3.org/2005/Atom" version="2.0"><channel><title><![CDATA[Júlio Campos]]></title><description><![CDATA[Servidor Público; Engenheiro de Software; Mentor.]]></description><link>https://lumen.netlify.com</link><generator>RSS for Node</generator><lastBuildDate>Sat, 08 Dec 2018 16:59:53 GMT</lastBuildDate><item><title><![CDATA[Skype Calling Support]]></title><description><![CDATA[Skype Calling is a rocket.chat app to send links to direct call someone inskype]]></description><link>https://lumen.netlify.com/support/skypecalling/</link><guid isPermaLink="false">https://lumen.netlify.com/support/skypecalling/</guid><pubDate>Sat, 08 Dec 2018 00:00:01 GMT</pubDate><content:encoded>&lt;p&gt;WIP&lt;/p&gt;
+&lt;p&gt;
+  &lt;a
+    class=&quot;gatsby-resp-image-link&quot;
+    href=&quot;/static/3cc6c764b6c6fa8d1abaefcee12e714c/01bf3/1.png&quot;
+    style=&quot;display: block&quot;
+    target=&quot;_blank&quot;
+    rel=&quot;noopener&quot;
+  &gt;
+  
+  &lt;span
+    class=&quot;gatsby-resp-image-wrapper&quot;
+    style=&quot;position: relative; display: block;  max-width: 960px; margin-left: auto; margin-right: auto;&quot;
+  &gt;
+    &lt;span
+      class=&quot;gatsby-resp-image-background-image&quot;
+      style=&quot;padding-bottom: 62.5%; position: relative; bottom: 0; left: 0; background-image: url(&apos;data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABQAAAANCAYAAACpUE5eAAAACXBIWXMAABYlAAAWJQFJUiTwAAABmUlEQVQ4y6WS2U7CQBSG+zomClERZVGEeKEPI9HExKcQuLA10XdATEhQxBu98QqKLW6RVjFGhQujBil0+Z0ZytbgFk/yZZae85+/M8PtJZNIp9PYTaUgCFvY5Hk2JhIJbMRiiPVB1/F4HNs7O+AFAVskT+AFls+TOlrDRaNrWFldxzLh+qaMlq7DMEx8F6ZpwbIsmFZ71ElNo6GxkRvzzGLE7YPLMwdJKrECwzBYIgUUtIvq9Tr7RqPznQmbJoPOOX9oEZMzYXgDCxDzIiq1V7y9v5OOH9A0DY2mjmar3aC/0VdwHl8EbuJy3BuCXLroOux0pb9nMpe9sIasO3ucazKIsYnAgCAVcka/C+d6wCF1R0Wdgs5Ep5Nhjr8V/Ev8SvCnwx8GO8N+QckW1Oml2O/sT5gOh1eXV/hvcK6JIEbJLU/7I0hmT3Ak3yFXVJAVFWTyZWQKPfZtOvNDkpc7UxlZsYzz+yq4wPwSeTZBTPnCODg+haw+onjzAKlSg6g+Q7y1IfO88oiC8tTdkypVyCSPUlSfUKm+4BN01IlUoDyXCgAAAABJRU5ErkJggg==&apos;); background-size: cover; display: block;&quot;
+    &gt;
+      &lt;img
+        class=&quot;gatsby-resp-image-image&quot;
+        style=&quot;width: 100%; height: 100%; margin: 0; vertical-align: middle; position: absolute; top: 0; left: 0; box-shadow: inset 0px 0px 0px 400px white;&quot;
+        alt=&quot;Skype calling usage&quot;
+        title=&quot;&quot;
+        src=&quot;/static/3cc6c764b6c6fa8d1abaefcee12e714c/c83f1/1.png&quot;
+        srcset=&quot;/static/3cc6c764b6c6fa8d1abaefcee12e714c/569e3/1.png 240w,
+/static/3cc6c764b6c6fa8d1abaefcee12e714c/93400/1.png 480w,
+/static/3cc6c764b6c6fa8d1abaefcee12e714c/c83f1/1.png 960w,
+/static/3cc6c764b6c6fa8d1abaefcee12e714c/23e13/1.png 1440w,
+/static/3cc6c764b6c6fa8d1abaefcee12e714c/10d8f/1.png 1920w,
+/static/3cc6c764b6c6fa8d1abaefcee12e714c/6bb82/1.png 2880w,
+/static/3cc6c764b6c6fa8d1abaefcee12e714c/01bf3/1.png 3360w&quot;
+        sizes=&quot;(max-width: 960px) 100vw, 960px&quot;
+      /&gt;
+    &lt;/span&gt;
+  &lt;/span&gt;
+  
+  &lt;/a&gt;
+    &lt;/p&gt;</content:encoded></item></channel></rss>
