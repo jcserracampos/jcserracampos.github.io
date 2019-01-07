@@ -3,7 +3,7 @@ const pxtorem = require('postcss-pxtorem')
 
 module.exports = {
   siteMetadata: {
-    url: 'https://lumen.netlify.com',
+    url: 'https://www.juliocampos.com.br',
     title: 'Júlio Campos',
     subtitle:
       'Servidor Público; Engenheiro de Software; Mentor.',
@@ -27,10 +27,8 @@ module.exports = {
       name: 'Júlio Campos',
       email: 'oi@juliocampos.com.br',
       telegram: 'jcserracampos',
-      twitter: 'https://twitter.com/JCSerraCampos',
-      github: 'https://github.com/jcserracampos',
-      rss: '#',
-      vk: '#',
+      twitter: 'JCSerraCampos',
+      github: 'jcserracampos',
     },
   },
   plugins: [
