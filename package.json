@@ -1,7 +1,7 @@
 {
-  "version": "3.0.0",
-  "name": "gatsby-v2-starter-lumen",
-  "description": "Simple starter for Gatsby",
+  "version": "1.0.0",
+  "name": "juliocampos-personalsite",
+  "description": "My personal website",
   "main": "n/a",
   "scripts": {
     "develop": "gatsby develop",
@@ -21,19 +21,19 @@
     "theme",
     "starter"
   ],
-  "author": "Alexander Shelepenok <alxshelepenok@gmail.com>",
+  "author": "Júlio Campos <jcserracampos@gmail.com>",
   "license": "MIT",
   "dependencies": {
     "bluebird": "^3.5.1",
     "gatsby": "^2.0.22",
     "gatsby-plugin-catch-links": "^2.0.4",
     "gatsby-plugin-feed": "^2.0.8",
-    "gatsby-plugin-google-analytics": "^2.0.6",
+    "gatsby-plugin-google-analytics": "^2.0.8",
     "gatsby-plugin-google-fonts": "latest",
     "gatsby-plugin-offline": "^2.0.6",
     "gatsby-plugin-react-helmet": "^3.0.0",
     "gatsby-plugin-sass": "^2.0.1",
-    "gatsby-plugin-sharp": "^2.0.15",
+    "gatsby-plugin-sharp": "^2.0.17",
     "gatsby-plugin-sitemap": "^2.0.1",
     "gatsby-remark-copy-linked-files": "^2.0.5",
     "gatsby-remark-images": "^2.0.4",
