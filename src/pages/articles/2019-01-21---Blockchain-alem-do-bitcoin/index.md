@@ -7,7 +7,6 @@ path: "/posts/blockchain-alem-do-bitcoin/"
 category: "Blog"
 tags:
   - "Blockchain"
-  - "Blockchain"
 description: "Não devemos deixar as oscilações do bitcoin, ou outra criptomoeda, tirar o brilho da blockchain"
 ---
 
