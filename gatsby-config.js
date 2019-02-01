@@ -119,7 +119,7 @@ module.exports = {
     'gatsby-plugin-sharp',
     {
       resolve: 'gatsby-plugin-google-analytics',
-      options: { trackingId: 'UA-73379983-2' },
+      options: { trackingId: 'UA-131917458-1' },
     },
     {
       resolve: 'gatsby-plugin-google-fonts',
@@ -197,12 +197,6 @@ module.exports = {
           }),
         ],
         precision: 8,
-      },
-    },
-    {
-      resolve: 'gatsby-plugin-google-analytics',
-      options: {
-        trackingId: 'UA-131917458-1',
       },
     },
   ],
