@@ -21,7 +21,7 @@ Seguindo a mesma linha do futurista Amara, a consultoria de tecnologia Gartner d
 
 Veja o grafico:
 
-[Hype Cycle](./1.png)
+![Hype Cycle](./1.png)
 
 Aqui vamos que, para a Gartner, existe um gatilho tecnológico em que uma nova tecnologia tende a ter suas expectativas infladas até atingir um pico, coincidindo com a fala de Amara  sobre sobrestimarmos o novo no curto prazo. Principalmente porque as pessoas que aderem à novidade acreditam, com convicção, em seu potencial, são os chamados _early adopters_.
 
@@ -41,7 +41,7 @@ Ainda não o completamos, estamos caminhando para o fundo. Se  olharmos pelo pri
 
  Logo, a veremos  passando pelo aclive da iluminação, segundo Gartner, até chegar ao platô da produtividade e, assim, começar a ser utilizada em seu  potencial.
 
-[Aclive da iluminação](./2.jpeg)
+![Aclive da iluminação](./2.jpeg)
 
 Obviamente que a tecnologia ainda não cumprirá todas as expectativas iniciais, mas superará as pessimistas que surgem nesta caminhada para o vale da desilusão.
 
